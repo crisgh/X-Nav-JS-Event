@@ -1,0 +1,14 @@
+h4{
+ font-style: oblique;
+ color: #162148;
+}
+p{
+  color: grey;
+}
+#change {
+  border: 1px  solid black;
+  border-radius: 15px 50px;
+  width: 400px;
+  height: 25px;
+  background: #ffffff;
+}
